@@ -1,0 +1,9 @@
+Building SapientaCoin
+
+See doc/readme-qt.rst for instructions on building SapientaCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SapientaCoin.
+
+See doc/build-*.txt for instructions on building sapientacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of SapientaCoin.
